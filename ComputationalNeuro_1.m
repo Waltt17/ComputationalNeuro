@@ -25,7 +25,7 @@ title('Cell 2 Raster');
 ylabel('Trial Number');
 xlabel('Time (s)');
 
-Cell 3 Raster
+%Cell 3 Raster
 figure(3);
 hold on;
 for i = 1:numel(cell_3(:,1))
@@ -36,7 +36,7 @@ title('Cell 3 Raster');
 ylabel('Trial Number');
 xlabel('Time (s)');
 
-Cell 4 Raster
+%Cell 4 Raster
 figure(4);
 hold on;
 for i = 1:numel(cell_4(:,1))
